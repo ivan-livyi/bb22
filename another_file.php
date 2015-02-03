@@ -2,4 +2,4 @@ some text from master
 
 from bithubchik
 
-master changes
+master changes local merge
