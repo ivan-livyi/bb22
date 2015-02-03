@@ -5,3 +5,5 @@ comment from other branch
 short commit become longer
 
 some text
+
+from bithubchik
