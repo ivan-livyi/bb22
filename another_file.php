@@ -1,3 +1,3 @@
-some text
+some text from master
 
 from bithubchik
