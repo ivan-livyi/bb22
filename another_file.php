@@ -5,5 +5,3 @@ comment from other branch
 short commit become longer
 
 some text
-
-master branch
